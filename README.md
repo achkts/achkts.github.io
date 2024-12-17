@@ -13,7 +13,9 @@
   - Worked in MySQL
     - CRUD for creating tables in each schema of my project
     - JOINS to help combine information from different tables
-      
+      Examples:
+        - [ERR diagram](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/final_ERR_Diagram_gamers_guild.jpg)
+        - [SQL Project](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/SQL%20Games.pdf)
 
 ### Web Development & Programming 
 - First Website Donuts for Days
@@ -42,4 +44,5 @@
   - The Church of Jesus Christ of Latter-day Saints
 - Donut Artisan
   - Lee's MarketPlace Herriman, Utah
-  
+- Orchestra
+  - Cello & Trombone
