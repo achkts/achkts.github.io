@@ -1,4 +1,5 @@
 ## achkts.github.io
+## Contact me: [LinkedIn](https://www.linkedin.com/in/audrey-checketts/)
 
 # Projects
 ### QA Capstone
