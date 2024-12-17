@@ -1,11 +1,21 @@
 ## achkts.github.io
 
 # Projects
-### Project 1
+### QA Capstone
+- Test Cases
+- Links
+- Automated Testing 
+- [Github Repository](https://github.com/achkts/QACapstone)
+
+### Bugs in the Wild
 - Description
 - Links
 
-### Project 2
+### Database
+- Description
+- Links
+
+### Programming
 - Description
 - Links
 
