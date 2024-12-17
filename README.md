@@ -2,27 +2,44 @@
 
 # Projects
 ### QA Capstone
-- Test Cases
-- Links
+- Test Cases & Bugs reported in Jira
+  - Links
 - Automated Testing 
-- [Github Repository](https://github.com/achkts/QACapstone)
-
-### Bugs in the Wild
-- Description
-- Links
+  - [Github Repository](https://github.com/achkts/QACapstone)
 
 ### Database
-- Description
-- Links
+- Decomposed Data into normalized data structures
+  - Created ERD & ERR Diagrams
+  - Worked in MySQL
+    - CRUD for creating tables in each schema of my project
+    - JOINS to help combine information from different tables
+      
 
-### Programming
-- Description
-- Links
+### Web Development & Programming 
+- First Website Donuts for Days
+  - [Github Repository](https://github.com/achkts/wdd130/tree/master/donuts4days)
+- Second Website Scoots
+  - [Github Repository](https://github.com/achkts/wdd230/tree/main/scoots)
+- Quilt Library and Sort using JavaScript
+  - [Github Repository](https://github.com/achkts/cse121b/tree/master/week06)
+- Games Website 
+  - [Github Repository](https://github.com/achkts/games_galore/tree/main/src)
 
 # Education
-- Mountainland Technical College - Lehi, Utah
-- Brigham Young University - Idaho
+- Software Quality Assurance
+   - Mountainland Technical College - Lehi, Utah
+- Web Development & Programming
+  - Brigham Young University - Idaho
+- Database Experience & Development with MYSQL
+  - Brigham Young University - Idaho
+- Bachelor's Professional Studies Fine Arts Minor
+  - Adobe Photoshop, Illustrator and InDesign
+  - Photography & Oil Painting
+      - Brigham Young University - Idaho
 
 # Work History
-- Workplace 1
-- Workplace 2
+- Food Services
+  - The Church of Jesus Christ of Latter-day Saints
+- Donut Artisan
+  - Lee's MarketPlace Herriman, Utah
+  
