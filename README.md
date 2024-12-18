@@ -14,9 +14,9 @@
     - [ERR diagram](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/final_ERR_Diagram_gamers_guild.jpg)
   - Worked in MySQL
     - CRUD for creating tables in each schema of my project
+        - [CRUD View](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/CRUD_GenreTable.png)
     - JOINS to help combine information from different tables
-        - [SQL Project](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/SQL%20Games.pdf)
-
+        - [SQL Project](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/JoinPlayers.png)
 ### Web Development & Programming 
 - First Website Donuts for Days
   - [Github Repository](https://github.com/achkts/wdd130/tree/master/donuts4days)
