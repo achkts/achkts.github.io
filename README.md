@@ -25,6 +25,7 @@
   - [Github Repository](https://github.com/achkts/wdd230/tree/main/scoots)
 - Quilt Library and Sort using JavaScript
   - [Github Repository](https://github.com/achkts/quiltLibrary)
+  - [Quilt Library View](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/SusansQuilt.png)
 - City Chamber Site
   -[Chamber of Commerce Website](https://achkts.github.io/wdd230/chamber/index.html) 
 - Games Website 
