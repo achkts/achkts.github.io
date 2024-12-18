@@ -24,7 +24,7 @@
 - Second Website Scoots
   - [Github Repository](https://github.com/achkts/wdd230/tree/main/scoots)
 - Quilt Library and Sort using JavaScript
-  - [Github Repository](week06)
+  - [Github Repository](https://github.com/achkts/quiltLibrary)
 - City Chamber Site
   -[Chamber of Commerce Website](https://achkts.github.io/wdd230/chamber/index.html) 
 - Games Website 
