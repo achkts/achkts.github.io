@@ -32,6 +32,10 @@
 - Games Website 
   - [Github Repository](https://github.com/achkts/games_galore/tree/main/src)
 
+### Illustrator, Photoshop, & InDesign
+- BYU-Idaho College Campus Map
+  - [Map View](
+
 # Education
 - Software Quality Assurance
    - Mountainland Technical College - Lehi, Utah
