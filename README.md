@@ -34,7 +34,10 @@
 
 ### Illustrator, Photoshop, & InDesign
 - BYU-Idaho College Campus Map
-  - [Map View](
+  - Map Pamphlet
+    - [Front Cover](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/FrontBYUImap.pdf)
+    - [Inner Content](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/BYUIMapInside.pdf)
+    - [Map with Icons](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/BYUI_Map.pdf)
 
 # Education
 - Software Quality Assurance
