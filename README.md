@@ -3,8 +3,23 @@
 
 # Projects
 ### QA Capstone
-- Test Cases & Bugs reported in Jira
-  - Links
+-Jira Work Reported
+  - Test Cases
+    - [Tours Custom Charges](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Test_ToursCustomCharges.pdf)
+    - [DragonsteelBooks Navigation Headers](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/TC_DBNavHeaders.pdf)
+    - [DragonsteelBooks Sort Filter](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Test_DBSortFunction.pdf)
+    - [DragonsteelBooks Adding Multiple Items to Cart](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Test_DBAddMultiple.pdf)
+    - [DragonsteelBooks Collections](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Test_DBCollections.pdf)
+  - Bugs
+    - [CNN Extreme Weather](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Bug_CNNWeather.pdf)
+    - [DragonsteelBooks](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Bug_DBCartAdd.pdf)
+    - [MTech Portal](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Bug_MTechPortal.pdf)
+    - [MTech Portal Solved](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Bug_MTechPortalSolved.pdf)
+    - [MTech Wrong Page](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Bug_MTechWrongPage.pdf)
+    - [MTech Wrong Page Solved](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Bug_SolvedWrongPage.pdf)
+    - [Tours](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Bug_Tours.pdf)
+  - Feature Requests
+    - [MTech](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/Feature_MTech.pdf)
 - Automated Testing 
   - [Github Repository](https://github.com/achkts/QACapstone)
 
@@ -17,6 +32,7 @@
     - [CRUD View](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/CRUD_GenreTable.png)
 - JOINS to help combine information from different tables
   - [SQL Project](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/JoinPlayers.png)
+  - [JOINS](https://github.com/achkts/achkts.github.io/blob/main/docs/assets/ShowingJoins.png)
 
 ### Web Development & Programming 
 - First Website Donuts for Days
